@@ -1,4 +1,3 @@
-# Azure Sentinel is a cloud-native Security Information and Event Management (SIEM) solution offered by Microsoft. It provides intelligent security analytics and threat intelligence across the enterprise, empowering organizations to detect and respond to threats faster. In this tutorial, we will guide you through the steps required to set up Azure Sentinel and start analyzing security events.
 Prerequisites
 
 Before you begin, you will need the following:
